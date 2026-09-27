@@ -5,7 +5,7 @@ from fastai.vision.all import *
 from PIL import Image
 
 # Your Hugging Face repo details
-HF_REPO_ID = "YOUR_USERNAME/animal-classifier"
+HF_REPO_ID = "diana1space/animal-classifier"
 HF_MODEL_FILE = "nature_model.pkl"
 HF_CLASSES_FILE = "classes.pkl"
 
